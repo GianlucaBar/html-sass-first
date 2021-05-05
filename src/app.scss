@@ -1,0 +1,24 @@
+$primary_color: rgb(134, 27, 129);
+$secondary_color: rgb(39, 33, 37);
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    color: $primary_color;
+}
+
+button{
+    background-color: $primary_color;
+}
+
+p{
+    color: $primary_color;
+}
+
+body{
+    background-color: $secondary_color;
+}

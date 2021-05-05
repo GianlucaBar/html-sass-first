@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: #861b81;
+}
+
+button {
+  background-color: #861b81;
+}
+
+p {
+  color: #861b81;
+}
+
+body {
+  background-color: #272125;
+}
